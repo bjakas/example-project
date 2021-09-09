@@ -3,6 +3,9 @@ Vježba 4.XY
 Trajanje: cca 45min (do 21:00)
 
 
+NE PREBACIVATI build/ U src/, ta mapa nam je rezultat build procesa i nema veze s izvornim kodom aplikacije.
+
+
 1. U vaš example project dodajte mapu "src/". U mapu stavite sve skripte koje se uključuju u index.js. File index.js ostaje gdje je (u rootu projektne mape). Popravite i putanje za require().
 
 
