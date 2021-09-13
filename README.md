@@ -33,3 +33,11 @@ Kada završite s radom i spremni ste commitat, morate izaći van iz skripte u te
 
 
 Tko riješi neka zaljepi u chat link na svoju stranicu :)
+
+# DZ: (dodati scss i compilati s gulpom)
+
+- koristiti gulp da bi buildali sass; dodati scriptu za buildanje sassa
+u package.json dodati task gulp sass (srcipts pozovi webpack i gulp-sass)
+- proučiti kako pozvati webpack kroz gulp tako da gulp i dalje bude task runner, a webpack posluži kao jedan od alata koje gulp koristi u svom build procesu; proučiti načine na koje nam gulp može pomoći buildati skripte sa webpackom i asseste sa sassom s time da ćemo možda morati pristupati malo drugačije kod watcha fileova kad je u pitanju gulp
+
+- podići druge repositorije na Netlify; parcijalni ispit iz JS-a podići na Netlify, ili to do aplikaciju itd.
